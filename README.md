@@ -1,8 +1,19 @@
-- 👋 Hi, I’m @xiangsam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<a href="https://github.com/xiangsam">
+  <img src="https://komarev.com/ghpvc/?username=xiangsam&style=flat-square" />
+</a>
+
+Hi, I am Renexh, a student from BUAA, China
+
+
+## Something about me
+<a href="https://github.com/xiangsam">
+  <img src="https://github-readme-stats.vercel.app/api?username=xiangsam&show_icons=true&hide_border=true" />
+</a>
+
+
+<a href="https://github.com/xiangsam">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangsam&layout=compact" />
+</a>
 
 <!---
 xiangsam/xiangsam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
