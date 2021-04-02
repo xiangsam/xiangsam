@@ -1,4 +1,4 @@
-## 👋🏻 Hi,
+## 👋🏻 Hi
 
 <div align="center">
 <img alt="GIF" src="https://github.com/xiangsam/xiangsam/blob/271390e4ab50820a4594e3cb94b7ffaa6293de72/0_0EUAvTumWsRa2k6F.gif" width=400 height=450/>
@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=xiangsam&style=flat-square" />
 </a>
 
-Hi, I am Renexh, a student from BUAA, China
+I am Renexh, a student from BUAA, China
 - 🌱 I’m currently learning RUST
 - 💬 Ask me anything and I will try to help
 - 📫 How to reach me: sam_xiang.huang@outlook.com
