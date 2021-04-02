@@ -1,7 +1,7 @@
 ## 👋🏻 Hi,
 
 <div align="center">
-<img alt="GIF" src="https://github.com/xiangsam/xiangsam/blob/271390e4ab50820a4594e3cb94b7ffaa6293de72/0_0EUAvTumWsRa2k6F.gif" width=300 height=400/>
+<img alt="GIF" src="https://github.com/xiangsam/xiangsam/blob/271390e4ab50820a4594e3cb94b7ffaa6293de72/0_0EUAvTumWsRa2k6F.gif" width=400 height=450/>
 </div>
 
 <a href="https://github.com/xiangsam">
