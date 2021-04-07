@@ -9,7 +9,7 @@
 </a>
 
 I am Renexh, a student from BUAA, China
-- 🌱 I’m currently learning RUST
+- 🌱 I’m currently learning OS
 - 💬 Ask me anything and I will try to help
 - 📫 How to reach me: sam_xiang.huang@outlook.com
 - 😄 Pronouns: He/Him
