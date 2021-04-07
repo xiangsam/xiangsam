@@ -26,6 +26,9 @@ I am Renexh, a student from BUAA, China
 </a>
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!---
