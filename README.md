@@ -27,7 +27,9 @@ I am Renexh, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       6 hrs 27 mins   ███████████████████████░░   91.86 % 
+C            28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
 ```
 <!--END_SECTION:waka-->
 
