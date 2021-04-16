@@ -27,10 +27,10 @@ I am Renexh, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Python   10 hrs 41 mins  █████████████████████▒░░░   85.69 % 
-C        1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.11 % 
-Bash     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-Other    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 % 
+Python   10 hrs 35 mins  █████████████████████▒░░░   85.57 % 
+C        1 hr 15 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Bash     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Other    15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 % 
 ```
 <!--END_SECTION:waka-->
 
