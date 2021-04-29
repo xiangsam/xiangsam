@@ -27,9 +27,10 @@ I am Renexh, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 April, 2021 - 27 April, 2021
+Week: 21 April, 2021 - 28 April, 2021
 
-Python   16 hrs 25 mins  █████████████████████████   99.95 % 
+Python   16 hrs 33 mins  █████████████████████████   99.63 % 
+VimL     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 <!--END_SECTION:waka-->
 
