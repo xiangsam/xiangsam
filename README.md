@@ -27,10 +27,10 @@ I am Renexh, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 May, 2021 - 12 May, 2021
+Week: 06 May, 2021 - 13 May, 2021
 
-Python   9 hrs 15 mins   ██████████████████▓░░░░░░   74.35 % 
-C        3 hrs 11 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.65 % 
+Python   11 hrs 17 mins  ███████████████████▓░░░░░   78.67 % 
+C        3 hrs 3 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.33 % 
 ```
 <!--END_SECTION:waka-->
 
