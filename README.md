@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=xiangsam&style=flat-square" />
 </a>
 
-I am Renexh, a student from BUAA, China
+I am Samrito, a student from BUAA, China
 - 🌱 I’m currently learning OS
 - 💬 Ask me anything and I will try to help
 - 📫 How to reach me: sam_xiang.huang@outlook.com
