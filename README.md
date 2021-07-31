@@ -27,7 +27,9 @@ I am Samrito, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 24 July, 2021 - 30 July, 2021
+
+
 ```
 <!--END_SECTION:waka-->
 
