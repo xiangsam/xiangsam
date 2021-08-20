@@ -27,11 +27,11 @@ I am Samrito, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 August, 2021 - 18 August, 2021
+Week: 13 August, 2021 - 19 August, 2021
 
-Python   2 hrs 55 mins   ████████████████████████░   95.75 % 
-Other    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-C        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Python   14 mins         ████████████████░░░░░░░░░   64.34 % 
+Other    6 mins          ███████▓░░░░░░░░░░░░░░░░░   30.04 % 
+C        1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 % 
 ```
 <!--END_SECTION:waka-->
 
