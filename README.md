@@ -27,7 +27,7 @@ I am Samrito, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 August, 2021 - 27 August, 2021
+Week: 22 August, 2021 - 28 August, 2021
 
 C   43 mins         █████████████████████████   100.00 % 
 ```
