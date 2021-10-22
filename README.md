@@ -26,13 +26,13 @@ I am Samrito, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 October, 2021 - 20 October, 2021
+Week: 15 October, 2021 - 21 October, 2021
 
-Go      6 hrs 25 mins   ████████████████████▒░░░░   81.09 % 
-C++     52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Other   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
-SQL     5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
-JSON    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Go       6 hrs 25 mins   ██████████████▓░░░░░░░░░░   59.25 % 
+Python   3 hrs 12 mins   ███████▒░░░░░░░░░░░░░░░░░   29.59 % 
+Other    30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+C++      26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+Text     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 ```
 <!--END_SECTION:waka-->
 
