@@ -26,13 +26,13 @@ I am Samrito, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
-PHP         5 hrs 26 mins   ███████████▓░░░░░░░░░░░░░   47.12 % 
-TeX         4 hrs 24 mins   █████████▓░░░░░░░░░░░░░░░   38.27 % 
-C++         34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-gitconfig   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
-Python      12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+TeX         4 hrs 24 mins   █████████████████▓░░░░░░░   70.85 % 
+C++         34 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
+Python      23 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 % 
+gitconfig   14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
+C           11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
 ```
 <!--END_SECTION:waka-->
 
