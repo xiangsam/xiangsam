@@ -26,7 +26,7 @@ I am Samrito, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
 Python           3 hrs 17 mins   ██████████████████░░░░░░░   72.02 % 
 TeX              44 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
