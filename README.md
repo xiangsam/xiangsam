@@ -26,10 +26,11 @@ I am Samrito, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 January, 2022 - 20 January, 2022
+Week: 15 January, 2022 - 21 January, 2022
 
-Python           1 hr 22 mins    ████████████████████████░   96.27 % 
-ca65 assembler   3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Python           1 hr 50 mins    ███████████████████████▒░   92.75 % 
+desktop          5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+ca65 assembler   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
 ```
 <!--END_SECTION:waka-->
 
