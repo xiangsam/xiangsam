@@ -26,7 +26,7 @@ I am Samrito, a student from BUAA, China
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 January, 2022 - 30 January, 2022
+Week: 25 January, 2022 - 31 January, 2022
 
 Python     2 hrs 49 mins   ███████████▒░░░░░░░░░░░░░   45.95 % 
 C++        2 hrs 19 mins   █████████▓░░░░░░░░░░░░░░░   38.00 % 
