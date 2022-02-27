@@ -9,9 +9,6 @@
 </a>
 
 I am Samrito, a student from BUAA, China
-- 🌱 I’m currently learning NLP
-- 💬 Ask me anything and I will try to help
-- 😄 Pronouns: He/Him
 
 
 ## Something more about me
