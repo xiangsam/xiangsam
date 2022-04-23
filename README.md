@@ -24,12 +24,11 @@ I am Samrito, a student from BUAA, China
 <!--START_SECTION:waka-->
 
 ```text
-From: 14 April 2022 - To: 21 April 2022
+From: 15 April 2022 - To: 22 April 2022
 
-C++          4 hrs 40 mins   █████████▓░░░░░░░░░░░░░░░   38.77 %
-C            2 hrs 52 mins   ██████░░░░░░░░░░░░░░░░░░░   23.90 %
-Makefile     1 hr 48 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.06 %
-Other        1 hr 12 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 %
+C            4 hrs 14 mins   ███████████░░░░░░░░░░░░░░   43.49 %
+C++          2 hrs 8 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
+Other        1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
 ```
 
 <!--END_SECTION:waka-->
