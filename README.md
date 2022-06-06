@@ -24,11 +24,11 @@ I am Samrito, a student from BUAA, China
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 May 2022 - To: 04 June 2022
+From: 29 May 2022 - To: 05 June 2022
 
-Python   6 mins          █████████████░░░░░░░░░░░░   51.40 %
-Cuda     6 mins          ███████████░░░░░░░░░░░░░░   44.61 %
-Other    0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Cuda     6 mins          ██████████████████▓░░░░░░   74.30 %
+Python   1 min           ████▓░░░░░░░░░░░░░░░░░░░░   19.06 %
+Other    0 secs          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
 ```
 
 <!--END_SECTION:waka-->
