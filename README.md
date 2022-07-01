@@ -24,7 +24,7 @@ I am Samrito, a student from BUAA, China
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 June 2022 - To: 29 June 2022
+From: 23 June 2022 - To: 30 June 2022
 
 Python   53 mins         ███████████████████████▓░   94.75 %
 PHP      2 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.25 %
