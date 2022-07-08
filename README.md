@@ -24,7 +24,10 @@ I am Samrito, a student from BUAA, China
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 30 June 2022 - To: 07 July 2022
+
+Markdown    3 mins          ███████████████▓░░░░░░░░░   62.83 %
+gitconfig   2 mins          █████████▒░░░░░░░░░░░░░░░   37.17 %
 ```
 
 <!--END_SECTION:waka-->
