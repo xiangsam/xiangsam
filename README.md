@@ -24,7 +24,7 @@ I am Samrito, a student from BUAA, China
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 September 2022 - To: 24 September 2022
+From: 18 September 2022 - To: 25 September 2022
 
 TeX            1 hr 10 mins    ████████████████▒░░░░░░░░   64.94 %
 Markdown       16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
