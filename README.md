@@ -24,14 +24,11 @@ I am Samrito, a student from BUAA, China
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 September 2022 - To: 25 September 2022
+From: 19 September 2022 - To: 26 September 2022
 
-TeX            1 hr 10 mins    ████████████████▒░░░░░░░░   64.94 %
-Markdown       16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
-Bash           10 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.96 %
-OpenEdge ABL   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.72 %
-desktop        2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
-JSON           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+TeX            1 hr 10 mins    ██████████████████████▒░░   89.65 %
+OpenEdge ABL   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+JSON           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
 ```
 
 <!--END_SECTION:waka-->
