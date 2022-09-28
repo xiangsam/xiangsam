@@ -24,11 +24,7 @@ I am Samrito, a student from BUAA, China
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 September 2022 - To: 26 September 2022
-
-TeX            1 hr 10 mins    ██████████████████████▒░░   89.65 %
-OpenEdge ABL   5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-JSON           2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
