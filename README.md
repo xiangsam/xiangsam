@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=xiangsam&style=flat-square" />
 </a>
 
-I am Samrito, a student from BUAA, China
+I am Samrito, a student studying BUAA, China.
 
 
 ## Something more about me
