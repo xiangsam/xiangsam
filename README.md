@@ -24,9 +24,9 @@ I am Samrito, a student studying BUAA, China.
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 December 2022 - To: 16 December 2022
+From: 10 December 2022 - To: 17 December 2022
 
-Python   2 mins          █████████████████████████   100.00 %
+C   5 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
