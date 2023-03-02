@@ -24,7 +24,7 @@ I am Samrito, a student studying BUAA, China.
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 February 2023 - To: 27 February 2023
+From: 22 February 2023 - To: 01 March 2023
 
 Python     19 mins         █████████████████████▓░░░   86.30 %
 Other      1 min           ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
