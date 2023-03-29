@@ -24,14 +24,13 @@ I am Samrito, a student studying BUAA, China.
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 March 2023 - To: 27 March 2023
+From: 21 March 2023 - To: 28 March 2023
 
-Python                     5 hrs 24 mins   ████████████████████░░░░░   79.87 %
-Docker                     32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Markdown                   20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.05 %
-Nginx                      15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
-Nginx configuration file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
-Other                      3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Python                     3 hrs 52 mins   ████████████████████░░░░░   80.10 %
+Docker                     32 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.06 %
+Nginx                      15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
+Nginx configuration file   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Text                       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
 
 <!--END_SECTION:waka-->
