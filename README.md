@@ -24,11 +24,11 @@ I am Samrito, a student studying BUAA, China.
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 April 2023 - To: 17 April 2023
+From: 11 April 2023 - To: 18 April 2023
 
-Python       13 hrs 7 mins   ███████████████████████▒░   93.28 %
-Text         19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.33 %
+Python       15 hrs 13 mins  ███████████████████████▒░   93.79 %
+Text         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
 ```
 
 <!--END_SECTION:waka-->
