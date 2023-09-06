@@ -24,13 +24,13 @@ I am Samrito, a student studying at BUAA, China.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2023 - To: 04 September 2023
+From: 29 August 2023 - To: 05 September 2023
 
-Python         2 hrs 51 mins   █████████████████░░░░░░░░   67.99 %
-ActionScript   21 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 %
-MySQL          18 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
-messages       12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-Ezhil          10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Python         6 hrs 33 mins   ████████████████████▒░░░░   80.94 %
+ActionScript   30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+MySQL          18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.90 %
+messages       12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
+Ezhil          10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
 ```
 
 <!--END_SECTION:waka-->
