@@ -16,11 +16,11 @@ I am Samrito, a Master’s Degree candidate at BUAA, China.
   <img src="https://github-readme-stats.vercel.app/api?username=xiangsam&show_icons=true&hide_border=true" />
 </a>
 
-<div style="display:none">
+<!--
 <a href="https://github.com/xiangsam">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangsam&layout=compact" />
 </a>
-</div>
+-->
 
 <!--START_SECTION:waka-->
 
