@@ -25,13 +25,13 @@ I am Samrito, a Master’s Degree candidate at BUAA, China.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2023 - To: 05 November 2023
+From: 31 October 2023 - To: 07 November 2023
 
-C++          3 hrs 59 mins   ███████████░░░░░░░░░░░░░░   44.37 %
-Python       3 hrs 53 mins   ███████████░░░░░░░░░░░░░░   43.42 %
-YAML         52 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
-Text         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
-Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+C++          4 hrs 39 mins   ███████████████████▒░░░░░   77.06 %
+Python       43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 %
+YAML         26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Other        9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+Markdown     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
 ```
 
 <!--END_SECTION:waka-->
