@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=xiangsam&style=flat-square" />
 </a>
 
-I am Samrito, a Master’s Degree candidate at BUAA, China.
+I am Samrito. I am pursuing my Master's Degree at BUAA, China.
 
 
 ## Something more about me
