@@ -14,11 +14,7 @@ I am Samrito. I am pursuing my Master's Degree at BUAA, China.
 ## Something more about me
 [![Samrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangsam)](https://github.com/samrito/github-readme-stats)
 
-<!--
-<a href="https://github.com/xiangsam">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xiangsam&layout=compact" />
-</a>
--->
+![Samrito's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xiangsam\&layout=compact)
 
 <!--START_SECTION:waka-->
 
