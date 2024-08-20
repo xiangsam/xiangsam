@@ -12,9 +12,7 @@ I am Samrito. I am pursuing my Master's Degree at BUAA, China.
 
 
 ## Something more about me
-<a href="https://github.com/xiangsam">
-  <img src="https://github-readme-stats.vercel.app/api?username=xiangsam&show_icons=true&hide_border=true" />
-</a>
+[![Samrito's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiangsam)](https://github.com/samrito/github-readme-stats)
 
 <!--
 <a href="https://github.com/xiangsam">
