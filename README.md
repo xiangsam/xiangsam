@@ -17,7 +17,7 @@ I am Samrito. I am pursuing my Master's Degree at BUAA, China.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 December 2024 - To: 29 December 2024
+From: 23 December 2024 - To: 30 December 2024
 
 Python        1 hr            ███████████████████████▒░   93.68 %
 Image (svg)   4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
