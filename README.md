@@ -17,7 +17,7 @@ I am Samrito. I am pursuing my Master's Degree at BUAA, China.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 April 2025 - To: 10 April 2025
+From: 04 April 2025 - To: 11 April 2025
 
 Text         1 hr 50 mins    ██████████▓░░░░░░░░░░░░░░   42.96 %
 Python       1 hr 47 mins    ██████████▒░░░░░░░░░░░░░░   41.55 %
