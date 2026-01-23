@@ -17,7 +17,7 @@ I am Samrito. I am pursuing my Master's Degree at BUAA, China.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2026 - To: 21 January 2026
+From: 15 January 2026 - To: 22 January 2026
 
 CSS          18 mins         ███████████████████▓░░░░░   78.33 %
 JavaScript   4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.15 %
