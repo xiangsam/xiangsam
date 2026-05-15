@@ -17,9 +17,11 @@ I am Samrito. I am pursuing my Master's Degree at BUAA, China.
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 May 2026 - To: 12 May 2026
+From: 07 May 2026 - To: 14 May 2026
 
-No activity tracked
+Python   10 mins               ███████████████████████▒░   93.51 %
+JSON     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 %
+CSV      0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
 ```
 
 <!--END_SECTION:waka-->
